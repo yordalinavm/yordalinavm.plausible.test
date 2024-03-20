@@ -7,5 +7,13 @@ module.exports = {
     title: `CatsAndDogs`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: [
+  {
+    resolve: `gatsby-plugin-plausible`,
+    options: {
+      domain: `yordalinavm.plausible.test`,
+      proxyScript: 'https://plausible.io/js/script.js',
+    },
+  },
+],
 }
