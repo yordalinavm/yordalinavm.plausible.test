@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{ch4u:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n);t.default=e=>{let{cats:t}=e;return l.a.createElement(l.a.Fragment,null,l.a.createElement("h1",null,"Cats Page"),l.a.createElement("p",null,t))}}}]);
+//# sourceMappingURL=component---src-pages-cats-page-js-c3f42e36149c8b86a9fe.js.map
