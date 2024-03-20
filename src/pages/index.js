@@ -1,4 +1,3 @@
-// index.js
 import * as React from "react"
 import { useState } from "react"
 import CatsPage from "./CatsPage";
