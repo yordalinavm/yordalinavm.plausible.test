@@ -5816,6 +5816,15 @@
     "globby" "^11.0.2"
     "lodash" "^4.17.20"
 
+"gatsby-plugin-plausible@^0.0.7":
+  "integrity" "sha512-pWCXsrWal8lWMmZ1wJ2dolbwZZR1CZU1LVR/K1rYC8NeA+uqTLY8h3uH3hFgP5n8jmRRenOSJ9SjWM9OIdCjOA=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-plausible/-/gatsby-plugin-plausible-0.0.7.tgz"
+  "version" "0.0.7"
+  dependencies:
+    "@babel/runtime" "^7.9.2"
+    "minimatch" "3.0.4"
+    "react" "^16.13.1"
+
 "gatsby-plugin-typescript@^2.12.1":
   "integrity" "sha512-p32qJVDi5Xw1Oo5vLMUXdRBxSDlMrfxTGb7etMAsVfyLRlRhMLb2YsuXJIvN1IfybQ6Z3EbhlH293cpxn5jozg=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.12.1.tgz"
@@ -5927,7 +5936,7 @@
     "node-fetch" "^2.6.1"
     "uuid" "3.4.0"
 
-"gatsby@^2.0.0", "gatsby@^2.24.79", "gatsby@^2.24.91":
+"gatsby@^2.0.0", "gatsby@^2.24.79", "gatsby@^2.24.91", "gatsby@>=2.0.0":
   "integrity" "sha512-BYfiI/k+t8m/IzSkWZH8Cc0v7rJw6giSjG5sX25LWdfkQMqUvg/Gn6OC8BWwRPXnEwe7x0n5jbH+peO0p34ZHQ=="
   "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.32.13.tgz"
   "version" "2.32.13"
@@ -10225,7 +10234,7 @@
     "kleur" "^3.0.3"
     "sisteransi" "^1.0.5"
 
-"prop-types@^15.0.0", "prop-types@^15.6.1", "prop-types@^15.7.2", "prop-types@^15.8.1":
+"prop-types@^15.0.0", "prop-types@^15.6.1", "prop-types@^15.6.2", "prop-types@^15.7.2", "prop-types@^15.8.1":
   "integrity" "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg=="
   "resolved" "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   "version" "15.8.1"
@@ -10465,7 +10474,7 @@
     "strip-ansi" "3.0.1"
     "text-table" "0.2.0"
 
-"react-dom@^15.0.0 || ^16.0.0 || ^17.0.0", "react-dom@^16.4.2 || ^17.0.0", "react-dom@^18.2.0", "react-dom@15.x || 16.x || 16.4.0-alpha.0911da3":
+"react-dom@^15.0.0 || ^16.0.0 || ^17.0.0", "react-dom@^16.4.2 || ^17.0.0", "react-dom@^18.2.0", "react-dom@>=16.0.0", "react-dom@15.x || 16.x || 16.4.0-alpha.0911da3":
   "integrity" "sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
   "version" "18.2.0"
@@ -10507,12 +10516,14 @@
   "resolved" "https://registry.npmjs.org/react-refresh/-/react-refresh-0.8.3.tgz"
   "version" "0.8.3"
 
-"react@^0.14.0 || ^15.0.0 || ^16.0.0", "react@^15.0.0 || ^16.0.0 || ^17.0.0", "react@^16.4.2 || ^17.0.0", "react@^18.2.0", "react@15.x || 16.x || 16.4.0-alpha.0911da3":
-  "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
-  "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
-  "version" "18.2.0"
+"react@^0.14.0 || ^15.0.0 || ^16.0.0", "react@^15.0.0 || ^16.0.0 || ^17.0.0", "react@^16.13.1", "react@^16.14.0", "react@^16.4.2 || ^17.0.0", "react@^18.2.0", "react@15.x || 16.x || 16.4.0-alpha.0911da3":
+  "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
+  "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
+  "version" "16.14.0"
   dependencies:
     "loose-envify" "^1.1.0"
+    "object-assign" "^4.1.1"
+    "prop-types" "^15.6.2"
 
 "read@^1.0.7":
   "integrity" "sha512-rSOKNYUmaxy0om1BNjMN4ezNT6VKK+2xF4GBhc81mkH7L60i6dp8qPYrkndNLT3QPphoII3maL9PVC9XmhHwVQ=="
@@ -11416,7 +11427,18 @@
     "socket.io-adapter" "~2.1.0"
     "socket.io-parser" "~4.0.3"
 
-"sockjs-client@^1.4.0", "sockjs-client@1.1.4":
+"sockjs-client@^1.4.0", "sockjs-client@^1.5.0":
+  "integrity" "sha512-2g0tjOR+fRs0amxENLi/q5TiJTqY+WXFOzb5UwXndlK6TO3U/mirZznpx6w34HVMoc3g7cY24yC/ZMIYnDlfkw=="
+  "resolved" "https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.6.1.tgz"
+  "version" "1.6.1"
+  dependencies:
+    "debug" "^3.2.7"
+    "eventsource" "^2.0.2"
+    "faye-websocket" "^0.11.4"
+    "inherits" "^2.0.4"
+    "url-parse" "^1.5.10"
+
+"sockjs-client@1.1.4":
   "integrity" "sha512-hkDiI0wOmGmoUG3TSIrbDt8AhyzhePuNT3nogc5+c0amyUHu091y+jRK2h/e36olKRG+tSbhlQYHWqdsuW0CtQ=="
   "resolved" "https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.1.4.tgz"
   "version" "1.1.4"
@@ -11427,17 +11449,6 @@
     "inherits" "^2.0.1"
     "json3" "^3.3.2"
     "url-parse" "^1.1.8"
-
-"sockjs-client@^1.5.0":
-  "integrity" "sha512-2g0tjOR+fRs0amxENLi/q5TiJTqY+WXFOzb5UwXndlK6TO3U/mirZznpx6w34HVMoc3g7cY24yC/ZMIYnDlfkw=="
-  "resolved" "https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.6.1.tgz"
-  "version" "1.6.1"
-  dependencies:
-    "debug" "^3.2.7"
-    "eventsource" "^2.0.2"
-    "faye-websocket" "^0.11.4"
-    "inherits" "^2.0.4"
-    "url-parse" "^1.5.10"
 
 "sockjs@^0.3.21":
   "integrity" "sha512-GJgLTZ7vYb/JtPSSZ10hsOYIvEYsjbNU+zPdIHcUaWVNUEPivzxku31865sSSud0Da0W4lEeOPlmw93zLQchuQ=="
@@ -12282,10 +12293,10 @@
   dependencies:
     "prelude-ls" "~1.1.2"
 
-"type-fest@^0.13.1", "type-fest@^2.5.3":
-  "integrity" "sha512-RAH822pAdBgcNMAfWnCBU3CFZcfZ/i1eZjwFU/dsLKumyuuP3niueg2UAukXYF0E2AAoc82ZSSf9J0WQBinzHA=="
-  "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-2.19.0.tgz"
-  "version" "2.19.0"
+"type-fest@^0.13.1":
+  "integrity" "sha512-34R7HTnG0XIJcBSn5XhDd7nNFPRcXYRZrBB2O2jdKqYODldSzBAqzsWoZYYvduky73toYS/ESqxPvkDf/F0XMg=="
+  "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-0.13.1.tgz"
+  "version" "0.13.1"
 
 "type-fest@^0.20.2":
   "integrity" "sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ=="
@@ -12306,6 +12317,11 @@
   "integrity" "sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA=="
   "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-0.8.1.tgz"
   "version" "0.8.1"
+
+"type-fest@^2.5.3":
+  "integrity" "sha512-RAH822pAdBgcNMAfWnCBU3CFZcfZ/i1eZjwFU/dsLKumyuuP3niueg2UAukXYF0E2AAoc82ZSSf9J0WQBinzHA=="
+  "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-2.19.0.tgz"
+  "version" "2.19.0"
 
 "type-is@~1.6.18":
   "integrity" "sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g=="
