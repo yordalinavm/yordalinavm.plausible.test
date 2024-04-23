@@ -9,7 +9,7 @@ module.exports = {
   },
   plugins: [
   {
-    resolve: `gatsby-plugin-plausible`,
+    resolve: `@devular/gatsby-plugin-plausible`,
     options: {
       domain: `yordalinavm.plausible.test`,
       proxyScript: 'https://plausible.io/js/script.js',
