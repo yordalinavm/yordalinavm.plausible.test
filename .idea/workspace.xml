@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d91773d1-592a-4fbe-a1b4-07e912ad3a41" name="Changes" comment="react dom updated" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dx7qP54ETr2LGDgZR1lWutBzmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tumbadev/WebstormProjects/yordalinavm.plausible.test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d91773d1-592a-4fbe-a1b4-07e912ad3a41" name="Changes" comment="" />
+      <created>1710938065905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710938065905</updated>
+      <workItem from="1710938067070" duration="1404000" />
+      <workItem from="1711106260995" duration="2494000" />
+      <workItem from="1711954431639" duration="1982000" />
+      <workItem from="1713854695475" duration="7070000" />
+      <workItem from="1713863242122" duration="2202000" />
+    </task>
+    <task id="LOCAL-00001" summary="plausible plugin implemented">
+      <option name="closed" value="true" />
+      <created>1711955593867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711955593867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="plausible plugin implemented">
+      <option name="closed" value="true" />
+      <created>1713856777561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713856777561</updated>
+    </task>
+    <task id="LOCAL-00003" summary="plausible removed">
+      <option name="closed" value="true" />
+      <created>1713857012350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713857012350</updated>
+    </task>
+    <task id="LOCAL-00004" summary="plausible version 0.0.7">
+      <option name="closed" value="true" />
+      <created>1713859976266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713859976266</updated>
+    </task>
+    <task id="LOCAL-00005" summary="plausible version with a data-domain fix">
+      <option name="closed" value="true" />
+      <created>1713860975445</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713860975445</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test: fix data-domain">
+      <option name="closed" value="true" />
+      <created>1713863498872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713863498872</updated>
+    </task>
+    <task id="LOCAL-00007" summary="version 0.0.7">
+      <option name="closed" value="true" />
+      <created>1713864043880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713864043880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="prefix removed">
+      <option name="closed" value="true" />
+      <created>1713864163475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713864163475</updated>
+    </task>
+    <task id="LOCAL-00009" summary="prefix added">
+      <option name="closed" value="true" />
+      <created>1713864342782</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713864342782</updated>
+    </task>
+    <task id="LOCAL-00010" summary="prefix removed">
+      <option name="closed" value="true" />
+      <created>1713864459033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713864459033</updated>
+    </task>
+    <task id="LOCAL-00011" summary="react dom updated">
+      <option name="closed" value="true" />
+      <created>1713874819425</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713874819425</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="plausible plugin implemented" />
+    <MESSAGE value="plausible removed" />
+    <MESSAGE value="plausible version 0.0.7" />
+    <MESSAGE value="plausible version with a data-domain fix" />
+    <MESSAGE value="test: fix data-domain" />
+    <MESSAGE value="version 0.0.7" />
+    <MESSAGE value="prefix added" />
+    <MESSAGE value="prefix removed" />
+    <MESSAGE value="react dom updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="react dom updated" />
+  </component>
+</project>
