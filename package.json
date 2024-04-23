@@ -16,7 +16,6 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@devular/gatsby-plugin-plausible": "github:TkDodo/gatsby-plugin-plausible#data-domain",
     "gatsby": "^2.24.91",
     "react": "^16.14.0",
     "react-dom": "^18.2.0"

@@ -15,5 +15,5 @@ module.exports = {
       proxyScript: 'https://plausible.io/js/script.js',
     },
   },
-],
+]
 }
