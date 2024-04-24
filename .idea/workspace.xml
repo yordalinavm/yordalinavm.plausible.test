@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91773d1-592a-4fbe-a1b4-07e912ad3a41" name="Changes" comment="react dom updated" />
+    <list default="true" id="d91773d1-592a-4fbe-a1b4-07e912ad3a41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +56,8 @@
       <workItem from="1711106260995" duration="2494000" />
       <workItem from="1711954431639" duration="1982000" />
       <workItem from="1713854695475" duration="7070000" />
-      <workItem from="1713863242122" duration="2202000" />
+      <workItem from="1713863242122" duration="2512000" />
+      <workItem from="1713939734252" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="plausible plugin implemented">
       <option name="closed" value="true" />
@@ -142,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713874819425</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1713875405984</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713875405984</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +171,7 @@
     <MESSAGE value="prefix added" />
     <MESSAGE value="prefix removed" />
     <MESSAGE value="react dom updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="react dom updated" />
+    <MESSAGE value="commit all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all files" />
   </component>
 </project>
